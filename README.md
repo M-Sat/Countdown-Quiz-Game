@@ -4,11 +4,16 @@ A faithful desktop recreation of the classic British TV game show **Countdown**,
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
-| Home | Numbers Game | Letters Game |
-|------|-------------|--------------|
-| ![Home screen](images/S1.jpg) | ![Numbers game](images/S2.jpg) | ![Letters game](images/S3.jpg) |
+| Home | 
+| ![Home screen](images/S1.jpg) | 
+|--------------|
+| Numbers Game |
+| ![Numbers game](images/S2.jpg) | 
+|--------------|
+| Letters Game |
+| ![Letters game](images/S3.jpg) |
 
 ---
 
