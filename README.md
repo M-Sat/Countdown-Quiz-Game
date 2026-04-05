@@ -5,7 +5,7 @@ A faithful desktop recreation of the classic British TV game show **Countdown**,
 ---
 
 ## Screenshots
-
+| |
 | Home | 
 | ![Home screen](images/S1.jpg) | 
 |--------------|
