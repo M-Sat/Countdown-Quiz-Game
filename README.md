@@ -8,10 +8,10 @@ A faithful desktop recreation of the classic British TV game show **Countdown**,
 Home
 ![Home screen](images/S1.jpg)
 
-Numbers Game
+Numbers
 ![Numbers game](images/S2.jpg)
 
-Letters Game
+Letters
 ![Letters game](images/S3.jpg)
 
 ---
@@ -74,7 +74,7 @@ python lettersgame.py
 
 ---
 
-## 🎮 How to Play
+## How to Play
 
 ### Numbers Game
 1. Click **Draw BIG numbers** or **Draw SMALL numbers** until you have 6 tiles.
@@ -83,8 +83,6 @@ python lettersgame.py
 4. Use **Undo** to remove the last token or **Clear All** to start over.
 5. Click **SUBMIT SOLUTION** before time runs out.
 6. The computer's analysis panel reveals all solutions after the round.
-
-> **Rules (faithful to the show):** Each number may only be used once. Division must be exact (no fractions). Intermediate and final results must be positive integers.
 
 ### Letters Game
 1. Click **Draw VOWEL** or **Draw CONSONANT** until you have 9 letter tiles.
