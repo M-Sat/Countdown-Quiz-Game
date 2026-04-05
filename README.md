@@ -49,22 +49,23 @@ countdown/
 ├── main.py            # Home launcher
 ├── numbersgame.py     # Numbers Game
 ├── lettersgame.py     # Letters Game
-├── words.txt          # English word list (one word per line), taken from https://github.com/dwyl/english-words/blob/master/words_alpha.txt
+├── words.txt          # English word list (one word per line)
 ├── images/
 │   ├── icon.jpg       # Window / taskbar icon
 │   ├── num.png        # Numbers Game card icon
 │   └── let.png        # Letters Game card icon
 ├── .gitignore
 └── README.md
+```
+
+words.txt from https://github.com/dwyl/english-words/blob/master/words_alpha.txt
 
 ---
-
-```
 
 ## Running the App
 
 ```bash
-# Launch the home screen (recommended)
+# Launch the home screen
 python main.py
 
 # Or launch a game directly
